@@ -1,0 +1,210 @@
+{
+  "site_url": "https://zaid.hs-rp.com/",
+  "captured_on": "2026-10-09",
+  "deployed_release": "20260918T160127Z",
+  "kind": "static deployment snapshot",
+  "file_count": 40,
+  "total_bytes": 11087572,
+  "files": [
+    {
+      "path": "assets/Classroom-BcU9XrYf.js",
+      "bytes": 15839,
+      "sha256": "9c70422b6120fe3db2b7174ebdc3c30d9e2115074e4b3abfcf390115990ef190"
+    },
+    {
+      "path": "assets/Classroom-D0oo0Knz.js",
+      "bytes": 15839,
+      "sha256": "3f5e28f27199596c4a1faefcf8e01cb7a92c826dc17339c14c0949046c6264a1"
+    },
+    {
+      "path": "assets/ColabGuide-ChHAud3r.js",
+      "bytes": 19272,
+      "sha256": "73498e3102145020c5fa0ee0d836766e485df57ca580ed676486b9973251eb1b"
+    },
+    {
+      "path": "assets/ColabGuide-Cy2pu507.js",
+      "bytes": 19272,
+      "sha256": "63a6a4daabb55cbe56cbc8b4ac09ed4cc538e90d352b605af8f02e4b227d35ea"
+    },
+    {
+      "path": "assets/Labs-D22Hevyn.js",
+      "bytes": 412453,
+      "sha256": "55355c3394a13d4a81926e4f36d3090f95b3927a445d2c78e96d7de735e02720"
+    },
+    {
+      "path": "assets/Labs-DKKd4H3e.js",
+      "bytes": 412453,
+      "sha256": "cf79480f1ec2f18355436cc8a759cbd8b204672d4f2825a4cbba01c07777cb5d"
+    },
+    {
+      "path": "assets/index-Baz7KdQU.js",
+      "bytes": 323991,
+      "sha256": "69c2032731636a3727e66e78efa88c8e8e7350d99642181e6e2506c5bdce9d29"
+    },
+    {
+      "path": "assets/index-Bf--5Bvl.css",
+      "bytes": 65902,
+      "sha256": "87253e6646adccb8d750affdd9c07dcef006d13dc6e85f718d3be0529169818b"
+    },
+    {
+      "path": "assets/index-tUTd81yl.js",
+      "bytes": 323848,
+      "sha256": "f84d34669ba2525b371c24a1ea342a52966d4e03b88438a1b9e17f0146519b5d"
+    },
+    {
+      "path": "assets/noto-kufi-arabic-arabic-400-normal-BvgpXdLf.woff2",
+      "bytes": 43940,
+      "sha256": "d287128ffedd6cab026665c63e580d6fa397fbc47286fa47edd446482cffc5e5"
+    },
+    {
+      "path": "assets/noto-kufi-arabic-arabic-400-normal-PyVzz14P.woff",
+      "bytes": 69064,
+      "sha256": "6a5af74c0a834d362fbe6afa8dc36bd69443cf2f0f830a3cf2afeb8dcffb6321"
+    },
+    {
+      "path": "assets/noto-kufi-arabic-arabic-600-normal-DeKYl9zm.woff",
+      "bytes": 73844,
+      "sha256": "4b08fcc997e10f3194aa73afe82010fecb27186124d059da77667fc1abf1d9a9"
+    },
+    {
+      "path": "assets/noto-kufi-arabic-arabic-600-normal-DpQOABqh.woff2",
+      "bytes": 47416,
+      "sha256": "2273ed03fcd74389f3527b2f64b4d131cca308be76b50b11a85858df47bcd226"
+    },
+    {
+      "path": "assets/noto-kufi-arabic-arabic-700-normal-CGKuvZQr.woff2",
+      "bytes": 43872,
+      "sha256": "c964525ff0ef5e1005c41f68fcb8937da8bad92cffc51a6464c20cf470b532a5"
+    },
+    {
+      "path": "assets/noto-kufi-arabic-arabic-700-normal-SbQDc0eq.woff",
+      "bytes": 69880,
+      "sha256": "7ca3bddc69ba6e2d73112d026a2dfe6f10e3587fb42d1d8be995e13d7243a848"
+    },
+    {
+      "path": "assets/noto-naskh-arabic-arabic-400-normal-1AoZhAAW.woff",
+      "bytes": 87400,
+      "sha256": "3f3d49ef3202e3fe1ce4501bb194b9480b937fe4375da826b816b1dab0650ce2"
+    },
+    {
+      "path": "assets/noto-naskh-arabic-arabic-400-normal-U_i0HMfG.woff2",
+      "bytes": 52668,
+      "sha256": "9cc2d2e90f7b51904468558b4ed529de8a8206497c8edb5e33122bd077e0158c"
+    },
+    {
+      "path": "assets/noto-naskh-arabic-arabic-600-normal-DaTr67aF.woff",
+      "bytes": 91228,
+      "sha256": "e546b8ba70233b1a99388c6c9de90e48fb7d70f98b3cf06c2bf5caeae5f59e51"
+    },
+    {
+      "path": "assets/noto-naskh-arabic-arabic-600-normal-G5n5bgdQ.woff2",
+      "bytes": 56648,
+      "sha256": "0cefc9b889f4dc4ff1b958edae5ace24b0e9876fea79558013aa3bf840d8da91"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 312,
+      "sha256": "84d2bb9def66b81951c362ebd8ab5daa0e29cd69913460cd31e50e5676c69599"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3410,
+      "sha256": "b171391a6d361d4c0e01ef6578740ea1af47df6672ce90d3ec7018d3418f547e"
+    },
+    {
+      "path": "media/gis-ai.mp4",
+      "bytes": 1242064,
+      "sha256": "92d3a962f96bf78b974150e8f598652cc8844fd4fe116ada7986670a1eb3d223"
+    },
+    {
+      "path": "media/gis-ar.vtt",
+      "bytes": 1187,
+      "sha256": "e76942525c48ec7ffc408595d5382b352f1be950e439e96b5bd67729b0e2ad36"
+    },
+    {
+      "path": "media/gis-poster.jpg",
+      "bytes": 44335,
+      "sha256": "7f0b02c67d1add1eb9a6b6d9c6355e64c8d699fdbaa8b3057ddde4ef91fe9b59"
+    },
+    {
+      "path": "media/zaid-course-social-v1.jpg",
+      "bytes": 106168,
+      "sha256": "c1ced799df59ea4ee5860fa017ca217a5d8980fee353a00a97e73f84cd8e5f6a"
+    },
+    {
+      "path": "media/zaid.jpg",
+      "bytes": 24748,
+      "sha256": "493c234e6c6ddbce644c12a572e77851f0b65a5d84ec331d4c47530556c56c7c"
+    },
+    {
+      "path": "resources/Telecom_Colab_A_to_Z.ipynb",
+      "bytes": 36095,
+      "sha256": "88a998c79a633a5073c3746e0b9a52a57ce160e5ce9cdac4736d23b9d42e6ac8"
+    },
+    {
+      "path": "resources/Telecom_Data_Inspection.ipynb",
+      "bytes": 22354,
+      "sha256": "92c5c88a90a6d393ba703fff5d3efe30deca7af58d56798f5a548aa4af481472"
+    },
+    {
+      "path": "resources/Telecom_Network_Data.csv",
+      "bytes": 319895,
+      "sha256": "fbcda0dafb37188791ed5c2aebea5dbbf1be3b33c4083b1a2969790140f13b01"
+    },
+    {
+      "path": "resources/lecture-1-text.json",
+      "bytes": 16846,
+      "sha256": "1cdaa77acc5e13a66f8cec429e2929f7b2c43717cc49d4fd5b6c348563717154"
+    },
+    {
+      "path": "resources/lecture-1.pptx",
+      "bytes": 337904,
+      "sha256": "a3806e465a505e0e7ebcaeea41811d2218fc98cab115e03e63b3c3aeb8c57a76"
+    },
+    {
+      "path": "resources/lecture-2-text.json",
+      "bytes": 18087,
+      "sha256": "336ceffc40ea9911e518242d657f4d453d032e9cdb4d550df0a0c66da2361f05"
+    },
+    {
+      "path": "resources/lecture-2.pptx",
+      "bytes": 1030403,
+      "sha256": "9d6aa43d264f60e04be36c877ee5aec061fd6d56c7fb7de35ab7aa44e913705d"
+    },
+    {
+      "path": "resources/lecture-3-text.json",
+      "bytes": 15300,
+      "sha256": "6149383ca6414f5af87b559ad366e58ceb9f49b85cc4e30e5d55382f31b83d5f"
+    },
+    {
+      "path": "resources/lecture-3.pptx",
+      "bytes": 720586,
+      "sha256": "dfe5361954aa918e048ad175bc58a55a3cf90698fd32dd40e9bc491ec33c04c5"
+    },
+    {
+      "path": "resources/lecture-4-text.json",
+      "bytes": 16805,
+      "sha256": "1ac493855fbb1196bad896cff9dd802e34a1a55856c1651bcd6aaa765020f51d"
+    },
+    {
+      "path": "resources/lecture-4.pptx",
+      "bytes": 1565063,
+      "sha256": "1b5bb7ec28719f9a182a8e7458b57260e5cb25fefc1ed8d2921a2ed7c8a778e8"
+    },
+    {
+      "path": "resources/lecture-5-text.json",
+      "bytes": 22646,
+      "sha256": "82eba49880a95547a3fd0a0a5d2910b0da11f1de882e170fa6580c4421e59110"
+    },
+    {
+      "path": "resources/lecture-5.pptx",
+      "bytes": 969728,
+      "sha256": "a42c21fd03b98a2e396a2f16d739543a6c67e1d1623384ca2a7b55992a323e38"
+    },
+    {
+      "path": "resources/lectures.zip",
+      "bytes": 2328807,
+      "sha256": "0d7a733bdea0c383f88e9e6a99f979dc8a929b8b5f8bbdc6a45b34a251dc22f7"
+    }
+  ]
+}
